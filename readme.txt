@@ -5,8 +5,7 @@ this line is for feature2 branch
 new changes has been made
 
 
-1111111112222conflict11111111111111111111111111111111
-
+33333333333333333333333333
 
 hi this is a new line for creating conflit
 sfsdf
