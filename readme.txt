@@ -10,4 +10,3 @@ this line is added by feature1 branch
 
 
 hi this is a new line for creating conflit
-
